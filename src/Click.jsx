@@ -1,3 +1,4 @@
+
 function Click() {
   function buttonClick() {
   document.getElementById("btn").textContent=" Button Clicked! ";
@@ -9,3 +10,4 @@ function Click() {
   </>
   )
   }
+  export default Click

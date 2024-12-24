@@ -1,6 +1,8 @@
+
+
 function ClickParameter() {
   function buttonClick(yearth,classname ) {
-  /* សមា􀆀ល់ ស􀅍􀂚􀂼 ` គឺេ􀅡􀂼􀄧􀂼ងេឆ􀂭ងប៊ូតុងេលខ១េលើ keyboard។ សូមកុំ􀂫ចលំ􀅂􀂼􀄶􀂼􀄭􀂼ស􀅍􀂚􀂼 ' */
+  
   document.getElementById('btn2').textContent= `Year: ${yearth}, Class: ${classname}`;
   }
   return(
